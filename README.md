@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL:](https://github.com/brilliant-smart/Stats-preview-card-component.git)
-- Live Site URL: [Live Site URL:]([https://your-live-site-url.com](https://brilliant-smart.github.io/Stats-preview-card-component/))
+- Live Site URL: [Live Site URL:](https://brilliant-smart.github.io/Stats-preview-card-component)
 
 ## My process
 
